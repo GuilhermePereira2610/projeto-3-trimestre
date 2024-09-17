@@ -1,0 +1,7 @@
+f00ter{
+    display; flex;
+    align-items: center;
+justify-content: center;
+background-color: van(--primary-color);
+color: van(-- bg-ador);
+}
